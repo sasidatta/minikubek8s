@@ -34,3 +34,4 @@ override.tf.json
 terraform.rc
 minikube-linux-amd64
 kubectl
+.terraform.lock.hcl
